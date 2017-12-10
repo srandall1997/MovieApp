@@ -131,7 +131,7 @@ Partial Class Form1
         'intLabel
         '
         Me.intLabel.AutoSize = True
-        Me.intLabel.Location = New System.Drawing.Point(210, 441)
+        Me.intLabel.Location = New System.Drawing.Point(184, 464)
         Me.intLabel.Name = "intLabel"
         Me.intLabel.Size = New System.Drawing.Size(0, 17)
         Me.intLabel.TabIndex = 11
